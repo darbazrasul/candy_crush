@@ -1,0 +1,1 @@
+ C:\\Users\\VeeStore\\Desktop\\projects\\flutter_crush\\.dart_tool\\flutter_build\\ea8c1211186643c8f54e01abf036d281\\native_assets.yaml: 
